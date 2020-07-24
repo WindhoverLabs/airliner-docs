@@ -1,0 +1,8 @@
+.. toctree::
+   :maxdepth: 10
+   :caption: Software
+   :name: config-softwareware
+
+   Overview.rst
+   ../../apps/px4lib/docs/MessageAPI.rst
+   ../../core/README.rst
