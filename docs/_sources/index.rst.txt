@@ -38,7 +38,6 @@ Welcome to airliner's documentation!
    :name: main-software
    :glob:
 
-
    airliner/docs/software/index.rst
 
 
